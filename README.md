@@ -4,8 +4,6 @@
 ![Java](https://img.shields.io/badge/Java-17%2B-orange.svg)
 ![Build](https://github.com/Mr-NobodyX7777/s-lab-sync-science-lab-manager-/actions/workflows/build.yml/badge.svg)
 
-> Replace `OWNER/REPO` in the badge above with your actual GitHub
-> `username/repository-name` once this is pushed, so the build badge resolves.
 
 <p align="center">
   <img src="assets/logo.png" alt="S Lab Sync logo" width="120">
