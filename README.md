@@ -1,4 +1,4 @@
-# S Lab Sync
+# S Lab Sync — Java Edition
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Java](https://img.shields.io/badge/Java-17%2B-orange.svg)
